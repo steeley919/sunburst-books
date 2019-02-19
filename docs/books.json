@@ -13,11 +13,27 @@
       }
     ]
   },{
-    "name": "Topic B",
-    "children": [{"name": "Sub B1", "size": 9}, {"name": "Sub B2", "size": 2}]
+    "name": "Science Fiction",
+    "children": [
+      {
+        "name": "The Oracle Year",
+        "size": 9
+      }, {
+        "name": "The Day the Sun Died",
+        "size": 2
+      }
+    ]
   },{
-    "name": "Topic C",
-    "children": [{"name": "Sub A1", "size": 7},{"name": "Sub A2", "size": 11}]
+    "name": "Horror",
+    "children": [
+      {
+        "name": "The Devil Crept In",
+        "size": 7
+      },{
+        "name": "Last Days",
+        "size": 11
+      }
+    ]
   }]
 
 }
