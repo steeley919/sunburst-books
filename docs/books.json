@@ -1,0 +1,23 @@
+{
+  "name": "Contemporary Book Genres", "children" : [
+  {
+    "name": "Post-Apocalyptic",
+    "children": [
+      {
+        "name": "Walking Dead",
+        "size": 5
+      },
+      {
+        "name": "Weakened",
+        "size": 12
+      }
+    ]
+  },{
+    "name": "Topic B",
+    "children": [{"name": "Sub B1", "size": 9}, {"name": "Sub B2", "size": 2}]
+  },{
+    "name": "Topic C",
+    "children": [{"name": "Sub A1", "size": 7},{"name": "Sub A2", "size": 11}]
+  }]
+
+}
