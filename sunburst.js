@@ -45,6 +45,9 @@ var bookNodeData = {
             },{
                 "name": "Last Days",
                 "size": 11
+            },{
+                "name": "Little Heaven",
+                "size": 4
             }
         ]
     }]
