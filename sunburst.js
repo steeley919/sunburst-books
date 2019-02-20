@@ -69,7 +69,7 @@ var svg = d3.select(".chart").append("svg")
 
 var data = d3.json("docs/books.json");
 
-var colors = d3.scaleOrdinal(d3.schemeCategory20c);
+var colors = d3.scaleOrdinal(d3.schemePastel1);
 
 
 
