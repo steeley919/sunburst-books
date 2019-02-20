@@ -4,6 +4,7 @@
  *
  * JSON data is mine
  *
+ *
  */
 
 var bookNodeData = {
@@ -18,6 +19,10 @@ var bookNodeData = {
             {
                 "name": "Weakened",
                 "size": 12
+            },
+            {
+                "name": "Zombies vs. Unicorns",
+                "size": 2
             }
         ]
     },{
