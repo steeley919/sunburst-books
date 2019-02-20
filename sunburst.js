@@ -1,3 +1,11 @@
+/**
+ *
+ * Source: https://bl.ocks.org/denjn5/e1cdbbe586ac31747b4a304f8f86efa5
+ *
+ * JSON data is mine
+ *
+ */
+
 var bookNodeData = {
     "name": "Contemporary Book Genres", "children" : [
     {
